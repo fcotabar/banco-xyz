@@ -5,7 +5,8 @@
 
 # bancoXYZ ignore files proyect
 template.html
-#connect/
+conn.php
+connect/
 
 # Node artifact files
 node_modules/
